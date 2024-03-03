@@ -1,0 +1,7 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body {background-color: beige; font-family: "Lucida Console", "Courier New", monospace}
+        h1 {font-size: 40px;text-decoration: underline}
+         h3 {font-size: 30px;text-decoration: underline}
+        ul {list-style-type: square; list-style-position: inside}
+
+.browncol {background-color: saddlebrown;}
